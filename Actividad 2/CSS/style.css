@@ -1,0 +1,67 @@
+/* Header settings*/
+
+*{
+    background-color:darkgray;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: aliceblue;
+}
+
+#logo{
+    height: 200px;
+    width: 200px;
+    margin: 25px;
+}
+
+h1{
+    font-family: system-ui;
+    text-align: center;
+    font-size: 65px;
+}
+
+nav{
+    text-align: center;
+    margin: 50px;
+}
+
+.ni{
+    font-size: 35px;
+    text-decoration: none;
+    font-family: system-ui;
+    margin-left: 25px;
+    color: rgb(171, 46, 46);
+}
+
+/* Main settings*/
+
+h2{
+    font-family:monospace;
+    font-size: 30px;
+    background-color: rgb(171, 46, 46);
+    display: inline;
+    margin-left: 20px;
+}
+
+h3{
+    margin-top: 30px;
+    font-family: system-ui;
+    margin-left: 10px;
+}
+
+p{
+    font-family: arial;
+    font-size: 12;
+    margin: 30px;
+}
+
+h4{
+    text-align: center;
+    text-decoration: none;
+    font-size: x-large;
+    font-family: serif;
+}
+
